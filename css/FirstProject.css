@@ -29,11 +29,6 @@ body {
   background-position: center;
 }
 
-@media (max-width: 768px) {
-  .header {
-    padding-bottom: 125px;
-  }
-}
 
 /* Small */
 @media (min-width: 768px) {
